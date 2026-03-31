@@ -20,9 +20,9 @@ This project goes beyond basic marks analysis by incorporating attendance, subje
 
 * Identifies:
 
-  * High Risk ⚠️
-  * Needs Improvement 📉
-  * Safe ✅
+  * High Risk 
+  * Needs Improvement 
+  * Safe 
 * Based on attendance + performance
 
 ### 🧠 Advanced Insights
