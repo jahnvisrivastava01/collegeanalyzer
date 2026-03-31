@@ -54,9 +54,9 @@ This project goes beyond basic marks analysis by incorporating attendance, subje
 ## 📂 Dataset Format
 
 ```csv
-Name,DSA,Cloud Computing,Operating Systems,DBMS,Attendance
-Aman,85,78,80,88,88
-Riya,60,65,70,75,75
+Name,DSA,Cloud Computing,Operating Systems,Dbms,Attendance
+Priya,85,78,80,88,88
+Sneha,60,65,70,75,75
 ```
 
 ---
