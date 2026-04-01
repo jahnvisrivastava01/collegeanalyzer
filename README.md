@@ -38,7 +38,7 @@ This project goes beyond basic marks analysis by incorporating attendance, subje
 
 ### 📁 Output
 
-* Saves final analysis to CSV file
+* Saves final analysis to CSV file.
 
 ---
 
