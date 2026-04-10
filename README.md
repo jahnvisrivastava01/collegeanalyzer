@@ -8,7 +8,7 @@ This project goes beyond basic marks analysis by incorporating attendance, subje
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 📊 Performance Analysis
 
