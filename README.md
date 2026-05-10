@@ -85,7 +85,7 @@ python main.py
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * Machine learning-based performance prediction
 * Web dashboard (React integration)
