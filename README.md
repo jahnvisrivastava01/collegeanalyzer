@@ -1,6 +1,6 @@
 # 🎓 College Analyzer System
 
-## 🚀 Overview
+## Overview
 
 A Python-based analytics system designed to evaluate student performance using multiple academic parameters.
 
