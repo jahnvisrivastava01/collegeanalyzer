@@ -1,4 +1,4 @@
-# 🎓 College Analyzer System
+# College Analyzer System
 
 ## Overview
 
